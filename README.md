@@ -1,0 +1,2 @@
+# Pong
+Training project
